@@ -2,7 +2,7 @@
 
 ## Project: Movie Explorer
 
-LIVE DEMO
+[LIVE DEMO](https://www.example.com)
 
 # \*_Description:_
 
