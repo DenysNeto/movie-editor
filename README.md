@@ -2,7 +2,7 @@
 
 ## Project: Movie Explorer
 
-[LIVE DEMO](https://www.example.com)
+[LIVE DEMO](https://movie-editor.vercel.app/)
 
 # \*_Description:_
 
